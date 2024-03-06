@@ -1,0 +1,5 @@
+﻿  Student.cpp
+C:\Users\cioar\Desktop\poo\OOP\lab2\laborator2.0\Student.cpp(45,54): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  laborator2.0.cpp
+  Generating Code...
+  laborator2.0.vcxproj -> C:\Users\cioar\Desktop\poo\OOP\lab2\laborator2.0\x64\Debug\laborator2.0.exe
